@@ -4,6 +4,6 @@ public class AllCategoria {
 
 	public static final String[] categorias = {
 			"Frutas", "Dulces", "Verduras",
-			"Pan", ""
+			"Pan", "Lacteos"
 	};
 }
